@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'dreg',
     'dabout',
     'contact',
+    'bloodbank',
 ]
 
 MIDDLEWARE = [
