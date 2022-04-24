@@ -35,7 +35,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'bloodbank.urls'
+ROOT_URLCONF = 'Bloodbank.urls'
 
 TEMPLATES = [
     {
@@ -55,7 +55,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'bloodbank.wsgi.application'
+WSGI_APPLICATION = 'Bloodbank.wsgi.application'
 
 
 # Database
